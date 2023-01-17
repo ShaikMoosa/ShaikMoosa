@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShaikMoosa
-- 👀 I’m interested in UI/UX role.
+- 👀 I’m  UI/UX Designer.
 - 🌱 I’m currently learning Web devlopment and webflow.
 - 💞️ I’m looking to collaborate on building  websites.
 - 📫 How to reach me 686moosa@gmail.com
