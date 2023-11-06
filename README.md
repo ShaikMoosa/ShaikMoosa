@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaikMoosa
 - 👀 I’m  UI/UX Designer.
-- 🌱 I’m currently learning Web development and Game development
-- 💞️ I’m looking to collaborate on building  websites.
+- 🌱 I’m currently learning app development.
+- 💞️ I’m looking to collaborate on building UI/UX solutions for app and web.
 - 📫 How to reach me 686moosa@gmail.com
 
 <!---
